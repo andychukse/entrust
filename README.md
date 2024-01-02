@@ -1,4 +1,4 @@
-### This fork is to fix the package to be installable on Laravel v7, Laravel v8, Laravel v9
+### This fork is to fix the package to be installable on Laravel v7, Laravel v8, Laravel v9, Laravel v10
 
 ### Installation
 
