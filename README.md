@@ -3,13 +3,16 @@
 ### Installation
 
 For Laravel 7 run:
-`composer require "andychukse/entrust": "^7.0"`
+`composer require "andychukse/entrust": "^9.0"`
 
 For Laravel 8 run:
-`composer require "andychukse/entrust": "^8.0"`
+`composer require "andychukse/entrust": "^9.0"`
 
 For Laravel 9 run:
 `composer require "andychukse/entrust": "^9.0"`
+
+For Laravel 10 run:
+`composer require "andychukse/entrust": "^10.0"`
 
 Click [here](https://github.com/Zizaco/entrust/blob/master/README.md) for the full documentation.
 
