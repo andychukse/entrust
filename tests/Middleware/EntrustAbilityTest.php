@@ -3,7 +3,7 @@
 use Zizaco\Entrust\Middleware\EntrustAbility;
 use Mockery as m;
 
-class EntrustAbilityTest extends MiddlewareTest
+class EntrustAbilityTest extends MiddlewareTestCase
 {
     public function testHandle_IsGuestWithNoAbility_ShouldAbort403()
     {

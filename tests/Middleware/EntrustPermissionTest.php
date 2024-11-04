@@ -3,7 +3,7 @@
 use Zizaco\Entrust\Middleware\EntrustPermission;
 use Mockery as m;
 
-class EntrustPermissionTest extends MiddlewareTest
+class EntrustPermissionTest extends MiddlewareTestCase
 {
     public function testHandle_IsGuestWithNoPermission_ShouldAbort403()
     {

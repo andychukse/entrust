@@ -1,18 +1,21 @@
-### This fork is to fix the package to be installable on Laravel v7, Laravel v8, Laravel v9, Laravel v10
+### This fork is to fix the package to be installable on Laravel v7, Laravel v8, Laravel v9, Laravel v10, Laravel v11
 
 ### Installation
 
 For Laravel 7 run:
-`composer require "andychukse/entrust": "^9.0"`
+`composer require "andychukse/entrust:^9.0"`
 
 For Laravel 8 run:
-`composer require "andychukse/entrust": "^9.0"`
+`composer require "andychukse/entrust:^9.0"`
 
 For Laravel 9 run:
-`composer require "andychukse/entrust": "^9.0"`
+`composer require "andychukse/entrust:^9.0"`
 
 For Laravel 10 run:
-`composer require "andychukse/entrust": "^10.0"`
+`composer require "andychukse/entrust:^10.0"`
+
+For Laravel 11 run:
+`composer require "andychukse/entrust:^11.0"`
 
 Click [here](https://github.com/Zizaco/entrust/blob/master/README.md) for the full documentation.
 

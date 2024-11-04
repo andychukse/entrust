@@ -3,7 +3,7 @@
 use Zizaco\Entrust\Middleware\EntrustRole;
 use Mockery as m;
 
-class EntrustRoleTest extends MiddlewareTest
+class EntrustRoleTest extends MiddlewareTestCase
 {
     public function testHandle_IsGuestWithMismatchingRole_ShouldAbort403()
     {
